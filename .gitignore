@@ -209,3 +209,5 @@ __marimo__/
 
 #custom
 api_keys.py
+vector_database_wikipedia_articles_embedded.zip
+data/

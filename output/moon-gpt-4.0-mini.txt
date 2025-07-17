@@ -1,0 +1,161 @@
+{'name': 'instance-0000000000', 'cluster_name': 'aed2ba378bf84c39bb909ff34a533ff5', 'cluster_uuid': 'yAx5ztZcT6G2vFlhH_WbvQ', 'version': {'number': '9.0.3', 'build_flavor': 'default', 'build_type': 'docker', 'build_hash': 'cc7302afc8499e83262ba2ceaa96451681f0609d', 'build_date': '2025-06-18T22:09:56.772581489Z', 'build_snapshot': False, 'lucene_version': '10.1.0', 'minimum_wire_compatibility_version': '8.18.0', 'minimum_index_compatibility_version': '8.0.0'}, 'tagline': 'You Know, for Search'}
+
+the file vector_database_wikipedia_articles_embedded allready exists skipping download
+
+
+--------------------
+ID: 65293
+Title: Dione (moon)
+Summary: Dione is the fourth largest moon of Saturn. It has a diameter of 1,123 km (698 miles). It was discovered in 1684 by Giovanni Domenico Cassini. It is named after the titan Dione in Greek mythology. The moon has many craters and ice cliffs. It is tidally locked with Saturn, meaning the same face of Dione always faces Saturn.
+
+References
+
+Saturn's moons
+Score: 0.9126587
+
+--------------------
+ID: 81326
+Title: S/2003 J 12
+Summary: is a moon of Jupiter, and is the smallest known. It was found by a team of astronomers from the University of Hawaii led by Scott S. Sheppard in 2003.
+
+ is about 1 kilometre in diameter, and orbits Jupiter at an average distance of 17,740,000 km in 482.691 days, at an inclination of 143° to the ecliptic (143° to Jupiter's equator), with an orbital eccentricity of 0.4449.
+
+It is the closest of the farther non-spherical retrograde moons of Jupiter, and does not seem to belong to any group.
+
+References 
+
+Jupiter's moons
+Score: 0.9123993
+
+--------------------
+ID: 81097
+Title: S/2003 J 3
+Summary: is a moon of Jupiter. It was found by a team of astronomers from the University of Hawaii led by Scott S. Sheppard in 2003.
+
+ is about 2 kilometres in diameter, and orbits Jupiter at an average distance of 19,622,000 km in 561.518 days, at an inclination of 146° to the ecliptic (146° to Jupiter's equator), with an orbital eccentricity of 0.2507.
+
+It belongs to the Ananke group, retrograde non-spherical moons which orbit Jupiter between 19,300,000 and 22,700,000 km, at inclinations of about 150°.
+
+References
+
+Jupiter's moons
+Score: 0.9117737
+
+--------------------
+ID: 81187
+Title: S/2003 J 23
+Summary: is a moon of Jupiter. A team of astronomers from the University of Hawaii led by Scott S. Sheppard et al. found it in 2004 in pictures taken in 2003.
+
+ is about 2 kilometres in diameter, and orbits Jupiter at an average distance of 22,740,000 km in 700.538 days, at an inclination of 149° to the ecliptic (149° to Jupiter's equator), with an orbital eccentricity of 0.3931.
+
+It belongs to the Pasiphaë group, non-spherical retrograde moons orbiting Jupiter at distances ranging between 22,800,000 and 24,100,000 km, and with inclinations ranging between 144.5° and 158.3°.
+
+References 
+
+Jupiter's moons
+Score: 0.91082764
+
+--------------------
+ID: 81155
+Title: S/2003 J 15
+Summary: is a moon of Jupiter. It was found by a team of astronomers from the University of Hawaii led by Scott S. Sheppard, et al. in 2003.
+
+ is about 2 kilometres in diameter, and orbits Jupiter at an average distance of 22,721,000 km in 699.676 days, at an inclination of 142° to the ecliptic (142° to Jupiter's equator), with an orbital eccentricity of 0.0932.
+
+It is the farthest member of the Ananke group, retrograde non-spherical moons which orbit Jupiter between 19,300,000 and 22,700,000 km, at inclinations of about 150°.
+
+References
+
+Jupiter's moons
+Score: 0.9108124
+
+--------------------
+ID: 81331
+Title: Dia (moon)
+Summary: Dia (S/2000 J 11) ls the second-outermost prograde non-spherical moon of Jupiter. It was found by a team of astronomers from the University of Hawaii led by Scott S. Sheppard in 2000.
+
+Dia is about 4 kilometres in diameter, and orbits Jupiter at an average distance of 12,555,000 km in 287 days, at an inclination of 28° (to Jupiter's equator), and with an orbital eccentricity of 0.248.
+
+The moon is included in the Himalia group. After discovery it was lost for ten years because the orbit was poorly known. Recovery allowed much better precision.
+
+References 
+
+ Ephemeris IAU-MPC NSES
+ Mean orbital parameters NASA JPL
+
+Other websites 
+ David Jewitt pages
+ Scott Sheppard pages
+
+Jupiter's moons
+Score: 0.9105377
+
+--------------------
+ID: 81108
+Title: S/2003 J 16
+Summary: is a moon of Jupiter. It was found by a team of astronomers led by Brett J. Gladman in 2003.
+
+ is about 2 kilometres in diameter, and orbits Jupiter at an average distance of 20,744,000 km in 610.362 days, at an inclination of 151° to the ecliptic (149° to Jupiter's equator), with an orbital eccentricity of 0.3185.
+
+It belongs to the Ananke group, retrograde non-spherical moons which orbit Jupiter between 19,300,000 and 22,700,000 km, at inclinations of about 150°.
+
+References
+
+Jupiter's moons
+Score: 0.91012573
+
+--------------------
+ID: 80996
+Title: S/2003 J 9
+Summary: is a non-spherical moon of Jupiter. It was found by a team of astronomers from the University of Hawaii led by Scott S. Sheppard in 2003.
+
+ is about 1 kilometre in diameter, and orbits Jupiter at an average distance of 23,858,000 km in 752.839 days, at an inclination of 165° to the ecliptic (165° to Jupiter's equator), with an orbital eccentricity of 0.276.
+
+It belongs to the Carme group, made up of non-spherical retrograde moons orbiting Jupiter at a distance ranging between 23,000,000 and 24,000,000 km and at an inclination of about 165°.
+
+References
+
+Jupiter's moons
+Score: 0.90997314
+
+--------------------
+ID: 81118
+Title: S/2003 J 10
+Summary: is a non-spherical moon of Jupiter. It was found by a team of astronomers from the University of Hawaii led by Scott S. Sheppard et al. in 2003.
+
+ is about 2 kilometres in diameter, and orbits Jupiter at an average distance of 22,731,000 km in 700.129 days, at an inclination of 164° to the ecliptic (166° to Jupiter's equator), with an orbital eccentricity of 0.3438.
+
+It belongs to the Carme group, made up of non-spherical retrograde moons orbiting Jupiter at a distance ranging between 23,000,000 and 24,000,000 km and at an inclination of about 165°.
+
+References
+
+Jupiter's moons
+Score: 0.90989685
+
+--------------------
+ID: 80956
+Title: S/2003 J 4
+Summary: is a moon of Jupiter. It was found by a team of astronomers from the University of Hawaii led by Scott S. Sheppard in 2003.
+
+ is about 2 km in diameter, and orbits Jupiter at an average distance of 23,571,000 km in 739.294 days, at an inclination of 147° to the ecliptic (149° to Jupiter's equator), with an orbital eccentricity of 0.3003.
+
+It belongs to the Pasiphaë group, non-spherical retrograde moons orbiting Jupiter at distances ranging between 22,800,000 and 24,100,000 km, and with inclinations ranging between 144.5° and 158.3°.
+
+References
+
+Jupiter's moons
+Score: 0.9096832
+======================start top hit summary======================
+Dione is the fourth largest moon of Saturn. It has a diameter of 1,123 km (698 miles). It was discovered in 1684 by Giovanni Domenico Cassini. It is named after the titan Dione in Greek mythology. The moon has many craters and ice cliffs. It is tidally locked with Saturn, meaning the same face of Dione always faces Saturn.
+
+References
+
+Saturn's moons
+======================end top hit summary======================
+model: gpt-4o-mini
+Question: How big is the moon
+tokens used to preform search: ~101
+KNN: 10
+------------------------------------------------------------
+The text does not provide information about the size of the Moon (Earth's Moon), but it mentions that Dione, one of Saturn's moons, has a diameter of 1,123 km (698 miles). The size of Earth's Moon is approximately 3,474 km (2,159 miles) in diameter. If you need specific details about the Moon or any other moon, please let me know!
+------------------------------------------------------------

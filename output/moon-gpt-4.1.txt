@@ -4,16 +4,14 @@ the file vector_database_wikipedia_articles_embedded allready exists skipping do
 
 
 --------------------
-ID: 5093
-Title: Phoebe (moon)
-Summary: Phoebe is a moon which goes around (orbits) the planet called Saturn. It takes eighteen months for Phoebe to go all the way around Saturn. It is half made out of rock, and half made out of ice. The ground on Phoebe is black, which means that it is very dark when seen from Earth. Phoebe does not have any air, and there is no water on its surface.
+ID: 65293
+Title: Dione (moon)
+Summary: Dione is the fourth largest moon of Saturn. It has a diameter of 1,123 km (698 miles). It was discovered in 1684 by Giovanni Domenico Cassini. It is named after the titan Dione in Greek mythology. The moon has many craters and ice cliffs. It is tidally locked with Saturn, meaning the same face of Dione always faces Saturn.
 
-There are many craters on Phoebe. These are from asteroids and other things crashing into it, and leaving round marks on the surface.
-
-Phoebe is slightly irregular, which means that it is not perfectly round like a ball. It has an average diameter of 213 km. This means that the Earth's moon is 15 times bigger than Phoebe. The duration between two sunrises (rotation period) is only 9 hours and 16.5 minutes long. 
+References
 
 Saturn's moons
-Score: 0.91386414
+Score: 0.9126587
 
 --------------------
 ID: 81326
@@ -27,7 +25,7 @@ It is the closest of the farther non-spherical retrograde moons of Jupiter, and 
 References 
 
 Jupiter's moons
-Score: 0.9109192
+Score: 0.9123993
 
 --------------------
 ID: 81097
@@ -41,7 +39,7 @@ It belongs to the Ananke group, retrograde non-spherical moons which orbit Jupit
 References
 
 Jupiter's moons
-Score: 0.9105072
+Score: 0.9117737
 
 --------------------
 ID: 81187
@@ -55,7 +53,21 @@ It belongs to the Pasiphaë group, non-spherical retrograde moons orbiting Jupit
 References 
 
 Jupiter's moons
-Score: 0.90919495
+Score: 0.91082764
+
+--------------------
+ID: 81155
+Title: S/2003 J 15
+Summary: is a moon of Jupiter. It was found by a team of astronomers from the University of Hawaii led by Scott S. Sheppard, et al. in 2003.
+
+ is about 2 kilometres in diameter, and orbits Jupiter at an average distance of 22,721,000 km in 699.676 days, at an inclination of 142° to the ecliptic (142° to Jupiter's equator), with an orbital eccentricity of 0.0932.
+
+It is the farthest member of the Ananke group, retrograde non-spherical moons which orbit Jupiter between 19,300,000 and 22,700,000 km, at inclinations of about 150°.
+
+References
+
+Jupiter's moons
+Score: 0.9108124
 
 --------------------
 ID: 81331
@@ -76,7 +88,7 @@ Other websites
  Scott Sheppard pages
 
 Jupiter's moons
-Score: 0.9086609
+Score: 0.9105377
 
 --------------------
 ID: 81108
@@ -90,31 +102,7 @@ It belongs to the Ananke group, retrograde non-spherical moons which orbit Jupit
 References
 
 Jupiter's moons
-Score: 0.90864563
-
---------------------
-ID: 65293
-Title: Dione (moon)
-Summary: Dione is the fourth largest moon of Saturn. It has a diameter of 1,123 km (698 miles). It was discovered in 1684 by Giovanni Domenico Cassini. It is named after the titan Dione in Greek mythology. The moon has many craters and ice cliffs. It is tidally locked with Saturn, meaning the same face of Dione always faces Saturn.
-
-References
-
-Saturn's moons
-Score: 0.9086151
-
---------------------
-ID: 81155
-Title: S/2003 J 15
-Summary: is a moon of Jupiter. It was found by a team of astronomers from the University of Hawaii led by Scott S. Sheppard, et al. in 2003.
-
- is about 2 kilometres in diameter, and orbits Jupiter at an average distance of 22,721,000 km in 699.676 days, at an inclination of 142° to the ecliptic (142° to Jupiter's equator), with an orbital eccentricity of 0.0932.
-
-It is the farthest member of the Ananke group, retrograde non-spherical moons which orbit Jupiter between 19,300,000 and 22,700,000 km, at inclinations of about 150°.
-
-References
-
-Jupiter's moons
-Score: 0.9077759
+Score: 0.91012573
 
 --------------------
 ID: 80996
@@ -128,7 +116,21 @@ It belongs to the Carme group, made up of non-spherical retrograde moons orbitin
 References
 
 Jupiter's moons
-Score: 0.90760803
+Score: 0.90997314
+
+--------------------
+ID: 81118
+Title: S/2003 J 10
+Summary: is a non-spherical moon of Jupiter. It was found by a team of astronomers from the University of Hawaii led by Scott S. Sheppard et al. in 2003.
+
+ is about 2 kilometres in diameter, and orbits Jupiter at an average distance of 22,731,000 km in 700.129 days, at an inclination of 164° to the ecliptic (166° to Jupiter's equator), with an orbital eccentricity of 0.3438.
+
+It belongs to the Carme group, made up of non-spherical retrograde moons orbiting Jupiter at a distance ranging between 23,000,000 and 24,000,000 km and at an inclination of about 165°.
+
+References
+
+Jupiter's moons
+Score: 0.90989685
 
 --------------------
 ID: 80956
@@ -142,22 +144,24 @@ It belongs to the Pasiphaë group, non-spherical retrograde moons orbiting Jupit
 References
 
 Jupiter's moons
-Score: 0.9075928
+Score: 0.9096832
 ======================start top hit summary======================
-Phoebe is a moon which goes around (orbits) the planet called Saturn. It takes eighteen months for Phoebe to go all the way around Saturn. It is half made out of rock, and half made out of ice. The ground on Phoebe is black, which means that it is very dark when seen from Earth. Phoebe does not have any air, and there is no water on its surface.
+Dione is the fourth largest moon of Saturn. It has a diameter of 1,123 km (698 miles). It was discovered in 1684 by Giovanni Domenico Cassini. It is named after the titan Dione in Greek mythology. The moon has many craters and ice cliffs. It is tidally locked with Saturn, meaning the same face of Dione always faces Saturn.
 
-There are many craters on Phoebe. These are from asteroids and other things crashing into it, and leaving round marks on the surface.
-
-Phoebe is slightly irregular, which means that it is not perfectly round like a ball. It has an average diameter of 213 km. This means that the Earth's moon is 15 times bigger than Phoebe. The duration between two sunrises (rotation period) is only 9 hours and 16.5 minutes long. 
+References
 
 Saturn's moons
 ======================end top hit summary======================
-Question: How big is the earth's moon?
-tokens used to preform search205
+model: gpt-4.1
+Question: How big is the moon
+unable to find encoding for model gpt-4.1 defaulting to o200k_base for token count
+tokens used to preform search: ~101
+KNN: 10
 ------------------------------------------------------------
-The Earth's moon is 15 times bigger than Phoebe, which has an average diameter of 213 km. To find the diameter of the Earth's moon, we can multiply Phoebe's diameter by 15:
+Sure! To answer the question "How big is the Moon?" using only the provided text:
 
-\( 213 \text{ km} \times 15 = 3195 \text{ km} \)
+The text provides information about Dione, one of Saturn's moons, specifically that Dione has a diameter of 1,123 km (698 miles). However, the text does not provide any specific numerical information about the size of Earth's Moon. Therefore, based solely on the provided text, we cannot determine how big the Moon is, since only Dione's size is given.
 
-Thus, the average diameter of the Earth's moon is approximately 3,195 km.
+**Final answer:**  
+The text does not provide information about the size of the Moon; it only states that Dione (a moon of Saturn) has a diameter of 1,123 km (698 miles).
 ------------------------------------------------------------

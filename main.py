@@ -81,9 +81,12 @@ wikipedia_dataframe = pd.read_csv("data/vector_database_wikipedia_articles_embed
 
 # Define model
 EMBEDDING_MODEL = "text-embedding-ada-002"
+# gpt-4o-mini
+# gpt-4.1
+AI_model = "gpt-4o-mini"
 
 # Define question
-question = "How big is the earth's moon?"
+question = "How big is the moon"
 
 number_k = 10
 # Create embedding
@@ -122,15 +125,23 @@ response = client.search(
 pretty_response(response)
 top_hit_summary = response["hits"]["hits"][0]["_source"]["text"]
 print(f"======================start top hit summary======================\n{top_hit_summary}\n======================end top hit summary======================")
+print(f"model: {AI_model}")
 print(f"Question: {question}")
 # Store content of top hit for final step
 
-encoding = tiktoken.encoding_for_model("gpt-4o-mini")
+# get an estimate of the number of tokens the RAG search will use
+try:
+    encoding = tiktoken.encoding_for_model(AI_model)
+except KeyError:
+    print(f"unable to find encoding for model {AI_model} defaulting to o200k_base for token count")
+    encoding = tiktoken.get_encoding("o200k_base")
+
 print("tokens used to preform search: ~" + str(len(encoding.encode("Answer the following question: " + question + " by using the following text: " + top_hit_summary))))
 print(f"KNN: {number_k}")
+
 # Use Chat Completions API for retrieval augmented generation
 summary = clientAI.chat.completions.create(
-    model="gpt-4o-mini",
+    model=AI_model,
     messages=[
         {"role": "system", "content": "You are a helpful assistant."},
         {

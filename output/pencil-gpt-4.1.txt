@@ -1,0 +1,250 @@
+{'name': 'instance-0000000001', 'cluster_name': 'aed2ba378bf84c39bb909ff34a533ff5', 'cluster_uuid': 'yAx5ztZcT6G2vFlhH_WbvQ', 'version': {'number': '9.0.3', 'build_flavor': 'default', 'build_type': 'docker', 'build_hash': 'cc7302afc8499e83262ba2ceaa96451681f0609d', 'build_date': '2025-06-18T22:09:56.772581489Z', 'build_snapshot': False, 'lucene_version': '10.1.0', 'minimum_wire_compatibility_version': '8.18.0', 'minimum_index_compatibility_version': '8.0.0'}, 'tagline': 'You Know, for Search'}
+
+the file vector_database_wikipedia_articles_embedded allready exists skipping download
+
+
+--------------------
+ID: 4063
+Title: Pencil
+Summary: A pencil is a kind of writing equipment that is also used to draw, usually on paper. Most pencil cores are made of graphite powder mixed with a clay binder. So, a pencil is usually made with a piece of graphite mixed with clay that has a wood case around it. The shape is usually a hexagonal prism but some pencils are square or cylinder.
+
+Colored pencils are a kind that do not use greyish silver graphite. Instead, the core is colorful. Colored pencils or crayons are usually meant for drawing rather than writing.
+
+The difference between pens and pencils 
+The important difference between pens and pencils is that the tip of a pencil is made of solid graphite (or other material) which is rubbed off onto the paper.  A pen has a tip, usually made of metal, with liquid ink coming out and onto the paper.  Writing with a pen can smudge when it is still wet.  Writing from a pencil can be erased, but writing from a pen usually cannot, unless it uses a special type of ink and eraser.
+
+History 
+ An early writing tool was the reed pen used by ancient Egyptians, who wrote with ink on sheets of papyrus paper. 
+
+Another early writing instrument was the stylus, which was a thin stick of wood or metal, often lead. It was used for scratching onto black wax that covered white wood, a method used by the Romans. The word pencil comes from the Latin word  which means "little tail". It is an invention of the 16th century in England.
+
+Discovery of graphite deposits 
+Some time before 1565 (it may have been as early as 1500), a large deposit of graphite was found in Borrowdale, Cumbria. The locals found that it was very useful for marking sheep. This deposit of graphite was extremely pure and solid, and it could easily be sawn into sticks. This is still the only large scale deposit of graphite ever found in this solid form. Chemistry was in its early stages and the substance was thought to be a form of lead. Consequently, it was called plumbago (Latin for "lead ore"). The black core of pencils is still  referred to as lead, even though it never had the element lead. 
+
+The value of graphite was soon realized, mainly because it could be used to line the moulds for cannonballs. The mines were taken over by the Crown and guarded. When enough stocks of graphite had been added up, the mines were flooded to prevent theft until more was needed. Graphite had to be sneakily moved out for use in pencils. Because graphite is soft, it requires some form of holder. Graphite sticks were at first wrapped in string or in sheepskin for stability. The news of the usefulness of these early pencils spread far and wide, attracting the attention of artists all over the known world. 
+
+England continued to have a monopoly on the production of pencils until a method of reconstituting the graphite powder was found. The distinctively square English pencils continued to be made with sticks cut from natural graphite into the 1860s. The town of Keswick, near the original findings of block graphite, has a pencil museum.
+
+The first attempt to manufacture graphite sticks from powdered graphite was in Nuremberg, Germany, in 1662. It used a mixture of graphite, sulphur, and antimony. 
+
+Residual graphite from a pencil stick is not poisonous, and graphite is harmless if consumed.
+
+Wood holders added 
+The Italians first thought of wooden holders. In 1560, an Italian couple named Simonio and Lyndiana Bernacotti created the first blueprints for the modern carpentry pencil to mark their carpentry pieces. Their version was instead a flat, oval, more compact type of pencil. They did this at first by hollowing out a stick of juniper wood. Shortly thereafter, a superior technique was discovered: two wooden halves were carved, a graphite stick inserted, and the two halves then glued together–essentially the same method in use to this day. 
+
+English and German pencils were not available to the French during the Napoleonic Wars. France was under naval blockade imposed by Great Britain and could not import the pure graphite sticks from the British Grey Knotts mines – the only known source in the world for solid graphite. France was also unable to import the inferior German graphite pencil substitute. It took the efforts of an officer in Napoleon's army to change this. In 1795, Nicholas Jacques Conté discovered a method of mixing powdered graphite with clay and forming the mixture into rods that were then fired in a kiln. By varying the ratio of graphite to clay, the hardness of the graphite rod could also be varied. This method of manufacture, which had been earlier discovered by the Austrian Joseph Hardtmuth of Koh-I-Noor in 1790, remains in use. 
+
+In England, pencils continued to be made from whole sawn graphite. Henry Bessemer's first successful invention (1838) was a method of compressing graphite powder into solid graphite thus allowing the waste from sawing to be reused. 
+
+American colonists imported pencils from Europe until after the American Revolution. Benjamin Franklin advertised pencils for sale in his Pennsylvania Gazette in 1729, and George Washington used a three-inch pencil when he surveyed the Ohio Territory in 1762. It is said that William Munroe, a cabinetmaker in Concord, Massachusetts, made the first American wood pencils in 1812. This was not the only pencil-making occurring in Concord.  Henry David Thoreau discovered how to make a good pencil out of inferior graphite using clay as the binder; this invention was prompted by his father's pencil factory in Concord, which employed graphite found in New Hampshire in 1821 by Charles Dunbar.
+
+Eraser attached 
+On 30 March 1858, Hymen Lipman received the first patent for attaching an eraser to the end of a pencil. In 1862 Lipman sold his patent to Joseph Reckendorfer for $100,000, who went to sue the pencil manufacturer Faber-Castell for infringement. In 1875, the Supreme Court of the United States ruled against Reckendorfer declaring the patent invalid.
+
+The metal band used to mate the eraser with pencil is called a ferrule.
+
+Other attempts 
+The first attempt to manufacture graphite sticks from powdered graphite was in Nuremberg, Germany in 1662. They used a mixture of graphite, sulfur and antimony. Though usable, they were not as good as the English pencils.
+
+English and German pencils were not available to the French during the Napoleonic wars. It took the efforts of an officer in Napoleon's army to change this. In 1795 Nicholas Jacques Conté discovered a method of mixing powdered graphite with clay and forming the mixture into rods which were then fired in a kiln. By varying the ratio of graphite to clay, the hardness of the graphite rod could also be varied (the more clay, the harder the pencil, and the lighter the color of the mark). This method of making pencils is still used today.
+
+Modern day pencils 
+Today, pencils are made industrially by mixing finely ground graphite and clay powders, adding water, forming long spaghetti-like strings, and firing them in a kiln. The resulting strings are dipped in oil or molten wax which seeps into the tiny holes of the material, resulting in smoother writing. A juniper or incense-cedar plank with several long parallel grooves is cut to make something called a slate, and the graphite/clay strings are inserted into the grooves. Another grooved plank is glued on top, and the whole thing is then cut into individual pencils, which are then varnished or painted.
+
+A few common brands of colored pencils (among other items) are Crayola, RoseArt and Cra-Z-Art.
+
+References 
+
+Writing tools
+Score: 0.9265442
+
+--------------------
+ID: 69802
+Title: Eraser
+Summary: An eraser, or a rubber, is a tool made from rubber that is used to get rid of marks made from a pencil, or some types of pen. Another kind of eraser is made of felt and is used to remove chalk marks from a blackboard. Some may also be automatically be attached to a pencil, or could be bought to be shoved on a top of a pencil. Erasers can be used by rubbing the mistake and it will slowly clear away. All erasers will produce some dust called debris after rubbing and it will usually be black as it cleared away the pencil marks. Some erasers produce a lot of dust while some produce dust that all stick together. There are some good-quality erasers which are very soft and can erase easily, while some are very hard, and a lot of rubbing is needed. The classic pink eraser is made for smaller, lighter errors, whereas a thick, white eraser is made for bigger and/or darker marks.
+
+Writing tools
+Score: 0.9083252
+
+--------------------
+ID: 7085
+Title: Pen
+Summary: A pen (Latin: pinna, feather) is a tool used for writing or drawing. The ink of the pen is pressed onto paper and dries very fast.
+
+Reed pens are the oldest known type of pen. They were made from reeds growing in the delta of the Nile. The ancient Egyptians invented them, and also invented black ink, using soot and gum arabic. Their pens had split nibs to regulated the flow of ink to the writing tip. This simple design is still used in calligraphy today.
+
+Quill pens are one of the oldest type of pens.  A quill pen is the feather of a bird, usually a goose.  The end of the feather (the quill) was kept very sharp and had to be dipped into ink after every few words.
+
+Reed and quill pens are dip pens because they have to be dipped in ink many times during writing or drawing. Modern dip pens have nibs made of metal.
+
+Fountain pens are like dip pens, but can hold enough ink inside to write several pages before being refilled. Inside, the ink is held in a sac or cartridge. 
+
+A ballpoint pen is generally cylindrical plastic shaft that holds ink and is smaller than a fountain pen. It has a small hard ball on the writing end that rolls the ink onto the paper.
+
+A stylus is a pen that cannot write on paper, but can write on clay or wax. Styli of wood or metal have been used for thousands of years, for example in cuneiform writing. A modern computer stylus is usually made of plastic and may have electronics inside. It is used with a touchscreen.
+
+The coming of the personal computer much reduced the need to write on paper. All the same, a personally written letter  suggests "I think so much of you that I took the effort to write a real letter."
+
+Related pages 
+
+ Pencil
+ Ink
+ Paper
+
+References 
+
+Basic English 850 words
+Writing tools
+Score: 0.90771484
+
+--------------------
+ID: 7598
+Title: Marker
+Summary: A marker is a writing device that allows a person to draw, write, or scribble. Ink comes out of the tip of the marker and onto the writing surface, commonly a piece of paper. Markers generally come in a variety of different colors. They are sometimes referred to as "magic markers", or magic pens.
+
+The tip of the marker where ink comes out from is usually made of cloth. This allows the ink to go through easily. A lot of ink can come out from it at one time.
+
+Marker types 
+
+ Whiteboard markers are marker pens in which the ink can be rubbed out easily with tissues or dusters.
+ Permanent markers are markers which the ink cannot be rubbed off.
+
+Art
+Writing tools
+Score: 0.8993988
+
+--------------------
+ID: 58637
+Title: Clipboard
+Summary: ''For the clipboard in computers, see Clipboard (computing).
+
+A clipboard is a thin board with a large (usually metal) clip at the top. Clipboards are a little larger than a piece of paper. They are used to support paper with one hand, while writing on the paper with the other hand. Clipboards are often used in situations where a person may not be able to find a good writing surface.
+
+Clipboards can be made of many things. Most clipboards are made of masonite or particleboard, two types of wood. They can also be made from aluminum, steel, or acrylic, which is a type of plastic.
+
+Police and EMT clipboards
+
+Many police officers and EMTs carry clipboards. These clipboards are used very often and are usually made of metal. They often have one or two sections inside for carrying papers and reports.
+
+Tools
+Score: 0.89920044
+
+--------------------
+ID: 37301
+Title: Sharpie
+Summary: Sharpie is a line of permanent marker pens in the United States that are manufactured by Newell Brands.
+
+Sharpie markers are made with many tips. The most common and popular is the Fine tip. Other tips include Ultra Fine Point, Extra Fine Point, Brush tip, Chisel tip, and Retractable tip.
+
+Other websites 
+ Sharpie's website
+
+Writing tools
+Score: 0.89842224
+
+--------------------
+ID: 7823
+Title: Crayon
+Summary: Crayons are writing tools made with colored wax, water, and citric acid or chalk. Young children often use them to draw. Some adult artists use them too. They melt at a low temperature so they can be used in crayon-drip art. One very well-known brand of crayons is Crayola, a company by Binney and Smith.
+
+Other websites
+
+Art
+Writing tools
+Score: 0.89619446
+
+--------------------
+ID: 29612
+Title: Penlight
+Summary: A penlight is a small flashlight in the shape of a pen. A penlight usually uses a small light known as an "LED" (Light Emitting Diode) but it can also use a small lightbulb made just for small flashlights.
+
+The LED lights up when power is run through it. Making the penlight light up is as simple as pressing a button, or screwing the end on tighter so it makes contact with the batteries.
+
+Most of the time, penlights use two or three AA, AAA, or AAAA batteries. AAAA are a newer, thinner type of battery, most commonly found in small electronics. It started with the AA size batteries.
+
+Penlights can be made out of plastic or metal, and can be any color. They most often have a little clip, to hold it on your shirt or something.
+
+Light sources
+
+en:Penlight
+Score: 0.89390564
+
+--------------------
+ID: 46817
+Title: Notebook
+Summary: This article is talking about the notebook made of paper. If you are looking for the hand-carry computer, see Laptop.
+
+A notebook is a collection of sheets of paper, bound as a book or leaflet. It can be used to make notes and to draw things. Some notebooks also have a printed calendar.
+
+Writing media
+Score: 0.8931427
+
+--------------------
+ID: 3813
+Title: Pantograph
+Summary: A pantograph is an machine. It is  used in drawing or planning. It makes it easy to copy diagrams. 
+
+The device that an electric train uses to get its electricity is also called a pantograph, because it looks a bit like the drawing instrument.
+
+tools
+Score: 0.8928528
+======================start top hit summary======================
+A pencil is a kind of writing equipment that is also used to draw, usually on paper. Most pencil cores are made of graphite powder mixed with a clay binder. So, a pencil is usually made with a piece of graphite mixed with clay that has a wood case around it. The shape is usually a hexagonal prism but some pencils are square or cylinder.
+
+Colored pencils are a kind that do not use greyish silver graphite. Instead, the core is colorful. Colored pencils or crayons are usually meant for drawing rather than writing.
+
+The difference between pens and pencils 
+The important difference between pens and pencils is that the tip of a pencil is made of solid graphite (or other material) which is rubbed off onto the paper.  A pen has a tip, usually made of metal, with liquid ink coming out and onto the paper.  Writing with a pen can smudge when it is still wet.  Writing from a pencil can be erased, but writing from a pen usually cannot, unless it uses a special type of ink and eraser.
+
+History 
+ An early writing tool was the reed pen used by ancient Egyptians, who wrote with ink on sheets of papyrus paper. 
+
+Another early writing instrument was the stylus, which was a thin stick of wood or metal, often lead. It was used for scratching onto black wax that covered white wood, a method used by the Romans. The word pencil comes from the Latin word  which means "little tail". It is an invention of the 16th century in England.
+
+Discovery of graphite deposits 
+Some time before 1565 (it may have been as early as 1500), a large deposit of graphite was found in Borrowdale, Cumbria. The locals found that it was very useful for marking sheep. This deposit of graphite was extremely pure and solid, and it could easily be sawn into sticks. This is still the only large scale deposit of graphite ever found in this solid form. Chemistry was in its early stages and the substance was thought to be a form of lead. Consequently, it was called plumbago (Latin for "lead ore"). The black core of pencils is still  referred to as lead, even though it never had the element lead. 
+
+The value of graphite was soon realized, mainly because it could be used to line the moulds for cannonballs. The mines were taken over by the Crown and guarded. When enough stocks of graphite had been added up, the mines were flooded to prevent theft until more was needed. Graphite had to be sneakily moved out for use in pencils. Because graphite is soft, it requires some form of holder. Graphite sticks were at first wrapped in string or in sheepskin for stability. The news of the usefulness of these early pencils spread far and wide, attracting the attention of artists all over the known world. 
+
+England continued to have a monopoly on the production of pencils until a method of reconstituting the graphite powder was found. The distinctively square English pencils continued to be made with sticks cut from natural graphite into the 1860s. The town of Keswick, near the original findings of block graphite, has a pencil museum.
+
+The first attempt to manufacture graphite sticks from powdered graphite was in Nuremberg, Germany, in 1662. It used a mixture of graphite, sulphur, and antimony. 
+
+Residual graphite from a pencil stick is not poisonous, and graphite is harmless if consumed.
+
+Wood holders added 
+The Italians first thought of wooden holders. In 1560, an Italian couple named Simonio and Lyndiana Bernacotti created the first blueprints for the modern carpentry pencil to mark their carpentry pieces. Their version was instead a flat, oval, more compact type of pencil. They did this at first by hollowing out a stick of juniper wood. Shortly thereafter, a superior technique was discovered: two wooden halves were carved, a graphite stick inserted, and the two halves then glued together–essentially the same method in use to this day. 
+
+English and German pencils were not available to the French during the Napoleonic Wars. France was under naval blockade imposed by Great Britain and could not import the pure graphite sticks from the British Grey Knotts mines – the only known source in the world for solid graphite. France was also unable to import the inferior German graphite pencil substitute. It took the efforts of an officer in Napoleon's army to change this. In 1795, Nicholas Jacques Conté discovered a method of mixing powdered graphite with clay and forming the mixture into rods that were then fired in a kiln. By varying the ratio of graphite to clay, the hardness of the graphite rod could also be varied. This method of manufacture, which had been earlier discovered by the Austrian Joseph Hardtmuth of Koh-I-Noor in 1790, remains in use. 
+
+In England, pencils continued to be made from whole sawn graphite. Henry Bessemer's first successful invention (1838) was a method of compressing graphite powder into solid graphite thus allowing the waste from sawing to be reused. 
+
+American colonists imported pencils from Europe until after the American Revolution. Benjamin Franklin advertised pencils for sale in his Pennsylvania Gazette in 1729, and George Washington used a three-inch pencil when he surveyed the Ohio Territory in 1762. It is said that William Munroe, a cabinetmaker in Concord, Massachusetts, made the first American wood pencils in 1812. This was not the only pencil-making occurring in Concord.  Henry David Thoreau discovered how to make a good pencil out of inferior graphite using clay as the binder; this invention was prompted by his father's pencil factory in Concord, which employed graphite found in New Hampshire in 1821 by Charles Dunbar.
+
+Eraser attached 
+On 30 March 1858, Hymen Lipman received the first patent for attaching an eraser to the end of a pencil. In 1862 Lipman sold his patent to Joseph Reckendorfer for $100,000, who went to sue the pencil manufacturer Faber-Castell for infringement. In 1875, the Supreme Court of the United States ruled against Reckendorfer declaring the patent invalid.
+
+The metal band used to mate the eraser with pencil is called a ferrule.
+
+Other attempts 
+The first attempt to manufacture graphite sticks from powdered graphite was in Nuremberg, Germany in 1662. They used a mixture of graphite, sulfur and antimony. Though usable, they were not as good as the English pencils.
+
+English and German pencils were not available to the French during the Napoleonic wars. It took the efforts of an officer in Napoleon's army to change this. In 1795 Nicholas Jacques Conté discovered a method of mixing powdered graphite with clay and forming the mixture into rods which were then fired in a kiln. By varying the ratio of graphite to clay, the hardness of the graphite rod could also be varied (the more clay, the harder the pencil, and the lighter the color of the mark). This method of making pencils is still used today.
+
+Modern day pencils 
+Today, pencils are made industrially by mixing finely ground graphite and clay powders, adding water, forming long spaghetti-like strings, and firing them in a kiln. The resulting strings are dipped in oil or molten wax which seeps into the tiny holes of the material, resulting in smoother writing. A juniper or incense-cedar plank with several long parallel grooves is cut to make something called a slate, and the graphite/clay strings are inserted into the grooves. Another grooved plank is glued on top, and the whole thing is then cut into individual pencils, which are then varnished or painted.
+
+A few common brands of colored pencils (among other items) are Crayola, RoseArt and Cra-Z-Art.
+
+References 
+
+Writing tools
+======================end top hit summary======================
+model: gpt-4.1
+Question: What is a pencil
+unable to find encoding for model gpt-4.1 defaulting to o200k_base for token count
+tokens used to preform search: ~1600
+KNN: 10
+------------------------------------------------------------
+A pencil is a kind of writing equipment that is also used to draw, usually on paper. Most pencil cores are made of graphite powder mixed with a clay binder, and the core is surrounded by a wooden case. The typical shape is a hexagonal prism, but some pencils are square or cylindrical. Unlike pens, which use liquid ink, pencils write by rubbing the solid graphite core onto paper, and the writing can usually be erased. Colored pencils have a colorful core instead of greyish graphite and are mostly used for drawing rather than writing. The invention of the pencil dates back to the 16th century in England, after large deposits of graphite were discovered. Today, pencils are made by mixing graphite and clay, forming them into rods, and encasing them in wood, often with an attached eraser at the end.
+------------------------------------------------------------

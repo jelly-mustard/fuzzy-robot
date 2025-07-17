@@ -1,0 +1,363 @@
+{'name': 'instance-0000000001', 'cluster_name': 'aed2ba378bf84c39bb909ff34a533ff5', 'cluster_uuid': 'yAx5ztZcT6G2vFlhH_WbvQ', 'version': {'number': '9.0.3', 'build_flavor': 'default', 'build_type': 'docker', 'build_hash': 'cc7302afc8499e83262ba2ceaa96451681f0609d', 'build_date': '2025-06-18T22:09:56.772581489Z', 'build_snapshot': False, 'lucene_version': '10.1.0', 'minimum_wire_compatibility_version': '8.18.0', 'minimum_index_compatibility_version': '8.0.0'}, 'tagline': 'You Know, for Search'}
+
+the file vector_database_wikipedia_articles_embedded allready exists skipping download
+
+
+--------------------
+ID: 1936
+Title: Atlantic Ocean
+Summary: The Atlantic Ocean is the world's second largest ocean.  It covers a total area of about . It covers about 20 percent of the Earth's surface. It is named after the god Atlas from Greek mythology.
+
+Geologic history 
+The Atlantic formed when the Americas moved west from Eurasia and Africa. This began sometime in the Cretaceous period, roughly 135 million years ago. It was part of the break-up of the supercontinent Pangaea.
+
+The east coast of South America is shaped somewhat like the west coast of Africa, and this gave a clue that continents moved over long periods of time (continental drift). The Atlantic Ocean is still growing now, because of sea-floor spreading from the mid-Atlantic Ridge, while the Pacific Ocean is said to be shrinking because the sea floor is folding under itself or subducting into the mantle.
+
+Geography
+The Atlantic Ocean is bounded on the west by North and South America. It connects to the Arctic Ocean through the Denmark Strait, Greenland Sea, Norwegian Sea and Barents Sea. It connects with the Mediterranean Sea through the Strait of Gibraltar.
+
+In the southeast, the Atlantic merges into the Indian Ocean. The 20° East meridian defines its border.
+
+In the southwest, the Drake Passage connects it to the Pacific Ocean. The Panama Canal links the Atlantic and Pacific.
+
+The Atlantic Ocean is second in size to the Pacific. It occupies an area of about . The volume of the Atlantic, along with its adjacent seas (the seas next to it), is 354,700,000 cubic kilometres.
+
+The average depth of the Atlantic, along with its adjacent seas, is . The greatest depth is Milwaukee Deep near Puerto Rico, where the Ocean is  deep.
+
+Gulf Stream 
+The Atlantic Ocean has important ocean currents.  One of these, called the Gulf Stream, flows across the North Atlantic.  Water gets heated by the sun in the Caribbean Sea and then moves northwest toward the North Pole.  This makes France, the British Isles, Iceland, and Norway in Europe much warmer in winter than Newfoundland and Nova Scotia in Canada. Without the Gulf Stream, the climates of northeast Canada and northwest Europe might be the same, because these places are about the same distance from the North Pole.
+
+There are currents in the South Atlantic too, but the shape of this sea means that it has less effect on South Africa.
+
+Geology 
+The main feature of the Atlantic Ocean's seabed is a large underwater mountain chain called the Mid-Atlantic Ridge.  It runs from north to south under the Ocean. This is at the boundary of four tectonic plates: Eurasian, North American, South American and African. The ridge extends from Iceland in the north to about 58° south.
+
+The salinity of the surface waters of the open ocean ranges from 3337 parts per thousand and varies with latitude and season.
+
+References
+
+Other websites 
+LA Times special Altered Oceans 
+Oceanography Image of the Day, from the Woods Hole Oceanographic Institution
+National Oceanic and Atmospheric Administration 
+NOAA In-situ Ocean Data Viewer  Plot and download ocean observations
+
+www.cartage.org.lb 
+www.mnsu.edu
+Score: 0.92263794
+
+--------------------
+ID: 2033
+Title: Southern Ocean
+Summary: The Southern Ocean is the ocean around Antarctica. It means the waters of the Atlantic, Pacific, and Indian Oceans around the continent of Antarctica. Since the 1770s geographers have discussed its limits. Nowadays, sixty degrees south latitude is often accepted. Some people call this ocean the Antarctic Ocean.
+
+The total area is 20,327,000 km², and the coastline length is 17,968 km.
+
+Other websites 
+
+ Oceanography Image of the Day, from the Woods Hole Oceanographic Institution
+ The CIA World Factbook's  entry on the Southern Ocean
+ The Fifth Ocean from Geography.About.com
+ NOAA In-situ Ocean Data Viewer  Plot and download ocean observations
+ NOAA FAQ about the number of oceans 
+
+ 
+Geography of Antarctica
+Score: 0.8978424
+
+--------------------
+ID: 1975
+Title: Pacific Ocean
+Summary: The Pacific Ocean is the body of water between Asia and Australia in the west, the Americas in the east, the Southern Ocean to the south, and the Arctic Ocean to the north. It is the largest named ocean and it covers one-third of the surface of the entire world. It joins the Atlantic Ocean at a line drawn  south from Cape Horn, Chile/Argentina to Antarctica, and joins the Indian Ocean at a line drawn  south from Tasmania, Australia to Antarctica.
+
+As the Atlantic slowly gets wider, the Pacific is slowly shrinking. It does this by folding the sea floor in towards the centre of the Earth - this is called subduction.  This bumping and grinding is hard so there are many earthquakes and volcanoes when the pressure builds up and is quickly released as large explosions of hot rocks and dust. When an earthquake happens under the sea, the quick jerk causes a tsunami. This is why tsunamis are more common around the edge of the Pacific than anywhere else. Many of the Earth's volcanoes are either islands in the Pacific, or are on continents within a few hundred kilometers of the ocean's edge. Plate tectonics are another reason which makes Pacific Ocean smaller.
+
+Other websites 
+
+ EPIC Pacific Ocean Data Collection Viewable on-line collection of observational data
+ NOAA In-situ Ocean Data Viewer  plot and download ocean observations
+ NOAA PMEL Argo profiling floats Realtime Pacific Ocean data
+ NOAA TAO El Niño data Realtime Pacific Ocean El Niño buoy data
+ NOAA Ocean Surface Current Analyses – Realtime (OSCAR) Near-realtime Pacific Ocean Surface Currents derived from satellite altimeter and scatterometer data
+Score: 0.8965454
+
+--------------------
+ID: 1980
+Title: Arctic Ocean
+Summary: The Arctic Ocean is the ocean around the North Pole. The most northern parts of Eurasia and North America are around the Arctic Ocean. Thick pack ice and snow cover almost all of this ocean in winter, and most of it in summer. An icebreaker or a nuclear-powered submarine can use the Northwest Passage through the Arctic Ocean to go between the Pacific and Atlantic oceans.
+
+The ocean's area is about 14.056 million km2, which is the smallest of the world's 5 oceans, and it has  of coastline. The central surface covered by ice about  thick. The biology there is quite special. Endangered species there include walruses, whales and polar bears. Year by year the Arctic Ocean is becoming less icy, as a result of global warming.
+
+The average depth of the Arctic Ocean is . The deepest point is in the Eurasian Basin, at .
+
+Geography 
+The Arctic Ocean covers an area of about 14,056,000 km2.  The coastline is 45,390 km (28,200 mi) long It is surrounded by Eurasia, North America, Greenland, and by several islands.
+
+It is generally taken to include Baffin Bay, Barents Sea, Beaufort Sea, Chukchi Sea, East Siberian Sea, Greenland Sea, Hudson Bay, Hudson Strait, Kara Sea, Laptev Sea, White Sea and other bodies of water. It is connected to the Pacific Ocean by the Bering Strait  and to the Atlantic Ocean through the Greenland Sea and Labrador Sea.
+
+Countries bordering the Arctic Ocean are: Russia, Norway, Iceland, Greenland, Canada and the United States.
+
+Climate 
+The Arctic Ocean is in a polar climate. Winters are characterized by the polar night, cold and stable weather conditions, and clear skies.
+
+The temperature of the surface of the Arctic Ocean is fairly constant, near the freezing point of seawater.  Arctic Ocean consists of saltwater but its salinity is less than other oceans. The temperature must reach −1.8 °C (28.8 °F) before freezing occurs.
+
+Ice covers most of the Arctic Ocean. It covers almost the whole ocean in late winter and the majority of the ocean in late summer. Much of the Arctic ice pack is covered in snow for about 10 months of the year. The maximum snow cover is in March or April — about 20 to 50 cm (7.9 to 19.7 in).
+
+The climate of the Arctic region has varied significantly in the past. As recently as 55 million years ago, during the eocene epoch, the region reached an average annual temperature of 10–20 °C (50–68 °F). The surface waters of the Arctic Ocean warmed enough to support tropical lifeforms.
+
+Animal and plant life 
+Endangered marine species in the Arctic Ocean include walruses and whales. The area has a fragile ecosystem. The Arctic Ocean has relatively little plant life except for phytoplankton.  Phytoplankton are a crucial part of the ocean. They feed on nutrients from rivers and the currents of the Atlantic and Pacific oceans.
+
+References
+
+Other websites 
+
+ The Hidden Ocean Arctic 2005 Daily logs, photos and video from exploration mission.
+ Oceanography Image of the Day, from the Woods Hole Oceanographic Institution
+ Arctic Council
+ The Northern Forum
+ Arctic Environmental Atlas  Interactive map
+ NOAA Arctic Theme Page
+ 
+ Daily Arctic Ocean Rawinsonde Data from Soviet Drifting Ice Stations (1954–1990) at NSIDC
+ Arctic time series: The Unaami Data collection 
+ NOAA North Pole Web Cam Images from Web Cams deployed in spring on an ice floe
+ NOAA Near-realtime North Pole Weather Data Data from instruments deployed on an ice floe
+ Search for Arctic Life Heats Up by Stephen Leahy
+ International Polar Foundation
+ National Snow and Ice Data Center – Daily report of Arctic ice cover based on satellite data
+ Marine Biodiversity Wiki 
+
+Oceans
+Arctic
+Score: 0.894516
+
+--------------------
+ID: 63519
+Title: Adriatic Sea
+Summary: The Adriatic Sea is a body of water and is a part of the Mediterranean Sea. The Italian Peninsula from the Balkan Peninsula was sepatated by the sea. Countries that have a coastline in the Adriatic Sea are Italy, Slovenia, Croatia, Bosnia and Herzegovina, Montenegro and Albania.
+
+The average width of the sea is about 160 km. The Strait of Otranto joins the Adriatic Sea and the Ionian Sea and is only 85 to 100 km wide. The sea is very shallow. Its average depth is 240 m (133 fathoms). The sea is deepest east of Monte Gargano and south of Dubrovnik where it dips below 1,460 m (800 fathoms).
+
+Other websites
+
+Seas of the Atlantic Ocean
+Score: 0.89071655
+
+--------------------
+ID: 1978
+Title: Indian Ocean
+Summary: The Indian Ocean is the ocean surrounded by Asia to the north, Australia and the Pacific Ocean to the east, the Southern Ocean to the south, and Africa and the Atlantic Ocean to the west. It is named for the river Indus and Ancient India on its north shore. The Bay of Bengal, the Arabian Sea, the Persian Gulf and the Red Sea are all parts of this ocean.
+
+The deepest point in the Indian Ocean is in the Java Trench near the Sunda Islands in the east, 7500 m (25,344 feet) deep. The average depth is 3,890 m (12,762 ft). The Indian Ocean is the third largest ocean, 28,350,000 square miles in size. The majority is in the southern hemisphere.
+
+Other websites 
+
+ Maps of the indian Ocean
+ Océan Indien in easy French
+ NOAA In-situ Ocean Data Viewer  Plot and download ocean observations
+ The Indian Ocean in World History: Educational Website Interactive resource from the Sultan Qaboos Cultural Center
+ The Regional Tuna Tagging Project-Indian Ocean with details of the importance of Tuna in the Indian Ocean.. 
+ Detailed maps of the Indian Ocean
+ The Indian Ocean Trade: A Classroom Simulation 
+ CIA - The World Factbook, Oceans: Indian Ocean
+Score: 0.8905182
+
+--------------------
+ID: 15220
+Title: Caribbean Sea
+Summary: The Caribbean Sea is a tropical sea in the center of the Caribbean area. The body of water is part of the Atlantic Ocean. The sea is southeast of the Gulf of Mexico. The Caribbean Sea has many islands, which are popular among North American tourists because of their tropical climate. The Caribbean Sea is famous around the world as a tourist destination.
+
+History 
+Christopher Columbus came across a group of islands in the Caribbean region. When he did so, he thought he had reached another part of the world. Because of this, he named the islands the ‘West Indies’. However, later it was realized that he found an entire region. It still had its natural resources. The name ‘Caribbean’ was later given to it by the Amerindian tribe, the Caribs. That is how it got its name: the Caribbean Sea.
+
+This entire region covers an area of 1,063,000 sq. miles. It covers from Mexico to the boundaries of South America.
+
+This sea is just as deep as it is wide. Its deepest point is believed to be even lower than 25,220 ft, 7,686 m. That makes this point one of the lowest points on the surface of the earth, and the Caribbean Sea one of the deepest seas in the world.
+
+Other websites 
+
+Seas of the Atlantic Ocean
+Score: 0.8876343
+
+--------------------
+ID: 11124
+Title: List of seas
+Summary: The sea is the interconnected system of all the Earth's oceanic waters, including the Atlantic, Pacific, Indian, Southern and Arctic Oceans. However, the word "sea" can also be used for many specific, much smaller bodies of seawater, such as the North Sea or the Red Sea.There are 78 seas in the world
+
+List of seas, by ocean
+
+Pacific Ocean 
+ Bering Sea
+ Gulf of Alaska
+ Seck Sea (Gulf of California)
+ Sea of Okhotsk
+ Sea of Japan
+ Seto Inland Sea
+ East China Sea
+ South China Sea
+ Beibu Gulf
+ Sulu Sea
+ Celebes Sea
+ Bohol Sea (Mindanao Sea)
+ Philippine Sea
+ Flores Sea
+ Banda Sea
+ Arafura Sea
+ Tasman Sea
+ Yellow Sea
+ Bohai Sea
+ Coral Sea
+ Gulf of Carpentaria
+
+Atlantic Ocean 
+ Hudson Bay
+ James Bay
+ Baffin Bay init fam
+ Gulf of St. Lawrence
+ Gulf of Guinea
+ Caribbean Sea
+ Gulf of Mexico
+ Sargasso Sea
+ North Sea
+ Baltic Sea
+ Gulf of Bothnia
+ Irish Sea
+ Celtic Sea
+ English Channel
+ Mediterranean Sea
+ Adriatic Sea
+ Aegean Sea
+ Black Sea
+ Sea of Azov
+ Ionian Sea
+ Ligurian Sea
+ Mirtoon Sea
+ Tyrrhenian Sea
+ Gulf of Sidra
+ Sea of Marmara
+ Sea of Crete
+
+Indian Ocean 
+ Red Sea
+ Gulf of Aden
+ Persian Gulf
+ Gulf of Oman
+ Arabian Sea
+ Bay of Bengal
+ Gulf of Thailand
+ Java Sea
+ Timor Sea
+ Gulf of Kutch
+ Gulf of Khambhat
+
+Arctic Ocean 
+ Barents Sea
+ Kara Sea
+ Beaufort Sea
+ Amundsen Gulf
+ Greenland Sea
+ Chukchi Sea
+ Laptev Sea
+ East Siberian Sea
+
+Southern Ocean 
+ Amundsen Sea
+ Weddell Sea
+ Ross Sea
+ Great Australian Bight
+ Gulf St. Vincent
+ Spencer Gulf
+
+Seas which have land around them (these are landlocked) 
+ Aral Sea
+ Caspian Sea
+ Dead Sea
+ Sea of Galilee (we call this a sea, but it is really a small freshwater lake)
+ Salton Sea
+
+Seas which are not on Earth 
+Lunar maria are very big areas on the Moon. In the past, people thought they were water and called them "seas". 
+
+Scientists think that there is liquid water under the ground on some moons, for example Europa.
+
+Scientists also think that there are liquid hydrocarbons on Titan. 
+
+Basic English 850 words
+
+Geography-related lists
+Score: 0.88760376
+
+--------------------
+ID: 15940
+Title: Lake Ontario
+Summary: Lake Ontario is the smallest of the Great Lakes in North America, but its maximum depth (802ft; 244m) is deeper than lake Erie's (210ft) and Lake Huron's (750ft). 
+
+It forms most of the border between Ontario in Canada and New York in the United States of America. Its inlet is the Niagara River (from Niagara Falls), and its outlet is the Saint Lawrence River. Nearly 9 million Canadians live near Lake Ontario. It is the only Great Lake that does not touch the U.S. state of Michigan, the "Great Lakes State".
+
+Great Lakes
+Lakes of Canada
+Geography of Ontario
+Score: 0.8822937
+
+--------------------
+ID: 34081
+Title: Atlantic herring
+Summary: The Atlantic herring is a kind of herring, a fish. It can be found on both sides of the Atlantic. It can grow up to 45cm in length, weighing more than half a kilogram. It is a swarm fish, meaning many fish come together and form a school (or swarm) of fish. Swarms of up to 4 cubic kilometers in size have been measured of atlantic herring, with an eastimated 4 billion individual fish. Like with so many other fishes though, commercial overfishing is posing a problem. Stocks of herring have been collapsing. 
+
+Their natural predators are seals, cod, other large fish as well as some kinds of whales. 
+The current reason for the overfishing is the need of the Omega Fatty Acid, which helps increase memory, and brain functions.
+
+Baltic herring 
+The herrings that occurs in the Baltic Sea is much smaller. Some people consider it a dstinct subspecies. They call it Baltic herring, C. harengus membras.
+
+Clupeiformes
+Score: 0.8812866
+======================start top hit summary======================
+The Atlantic Ocean is the world's second largest ocean.  It covers a total area of about . It covers about 20 percent of the Earth's surface. It is named after the god Atlas from Greek mythology.
+
+Geologic history 
+The Atlantic formed when the Americas moved west from Eurasia and Africa. This began sometime in the Cretaceous period, roughly 135 million years ago. It was part of the break-up of the supercontinent Pangaea.
+
+The east coast of South America is shaped somewhat like the west coast of Africa, and this gave a clue that continents moved over long periods of time (continental drift). The Atlantic Ocean is still growing now, because of sea-floor spreading from the mid-Atlantic Ridge, while the Pacific Ocean is said to be shrinking because the sea floor is folding under itself or subducting into the mantle.
+
+Geography
+The Atlantic Ocean is bounded on the west by North and South America. It connects to the Arctic Ocean through the Denmark Strait, Greenland Sea, Norwegian Sea and Barents Sea. It connects with the Mediterranean Sea through the Strait of Gibraltar.
+
+In the southeast, the Atlantic merges into the Indian Ocean. The 20° East meridian defines its border.
+
+In the southwest, the Drake Passage connects it to the Pacific Ocean. The Panama Canal links the Atlantic and Pacific.
+
+The Atlantic Ocean is second in size to the Pacific. It occupies an area of about . The volume of the Atlantic, along with its adjacent seas (the seas next to it), is 354,700,000 cubic kilometres.
+
+The average depth of the Atlantic, along with its adjacent seas, is . The greatest depth is Milwaukee Deep near Puerto Rico, where the Ocean is  deep.
+
+Gulf Stream 
+The Atlantic Ocean has important ocean currents.  One of these, called the Gulf Stream, flows across the North Atlantic.  Water gets heated by the sun in the Caribbean Sea and then moves northwest toward the North Pole.  This makes France, the British Isles, Iceland, and Norway in Europe much warmer in winter than Newfoundland and Nova Scotia in Canada. Without the Gulf Stream, the climates of northeast Canada and northwest Europe might be the same, because these places are about the same distance from the North Pole.
+
+There are currents in the South Atlantic too, but the shape of this sea means that it has less effect on South Africa.
+
+Geology 
+The main feature of the Atlantic Ocean's seabed is a large underwater mountain chain called the Mid-Atlantic Ridge.  It runs from north to south under the Ocean. This is at the boundary of four tectonic plates: Eurasian, North American, South American and African. The ridge extends from Iceland in the north to about 58° south.
+
+The salinity of the surface waters of the open ocean ranges from 3337 parts per thousand and varies with latitude and season.
+
+References
+
+Other websites 
+LA Times special Altered Oceans 
+Oceanography Image of the Day, from the Woods Hole Oceanographic Institution
+National Oceanic and Atmospheric Administration 
+NOAA In-situ Ocean Data Viewer  Plot and download ocean observations
+
+www.cartage.org.lb 
+www.mnsu.edu
+======================end top hit summary======================
+model: gpt-4o-mini
+Question: how big is the atlantic ocean
+tokens used to preform search: ~654
+KNN: 10
+------------------------------------------------------------
+The Atlantic Ocean is the world's second largest ocean, covering an area of approximately 20 percent of the Earth's surface. The text does not specify the exact area in square kilometers or miles, but it emphasizes that the Atlantic is significantly large, second only to the Pacific Ocean. Additionally, the volume of the Atlantic, including its adjacent seas, is about 354,700,000 cubic kilometers.
+------------------------------------------------------------

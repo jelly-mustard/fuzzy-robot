@@ -90,7 +90,7 @@ EMBEDDING_MODEL = "text-embedding-ada-002"
 AI_model = "gpt-4o-mini"
 
 # Define question
-question = "How big is the moon"
+question = "how big is the atlantic ocean"
 
 number_k = 10
 # Create embedding

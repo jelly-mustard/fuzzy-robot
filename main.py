@@ -4,6 +4,10 @@ from elasticsearch import Elasticsearch, helpers
 from openai import OpenAI
 import wget, zipfile, pandas as pd, json, os, tiktoken
 
+# dependcies:
+
+# python3 -m pip install -qU openai pandas wget elasticsearch tiktoken
+
 # Connect to Elasticsearch
 client = Elasticsearch(cloud_id=ELASTIC_CLOUD_ID, api_key=ELASTIC_API_KEY)
 print(client.info())
@@ -12,7 +16,7 @@ print(client.info())
 if os.path.exists("data/vector_database_wikipedia_articles_embedded.csv"):
     print(f"\nthe file vector_database_wikipedia_articles_embedded allready exists skipping download\n")
 else:
-    # embeddings_url = "https://cdn.openai.com/API/examples/data/vector_database_wikipedia_articles_embedded.zip"
+    embeddings_url = "https://cdn.openai.com/API/examples/data/vector_database_wikipedia_articles_embedded.zip"
     wget.download(embeddings_url)
     with zipfile.ZipFile("vector_database_wikipedia_articles_embedded.zip", "r") as zip_ref:
         zip_ref.extractall("data")
